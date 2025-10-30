@@ -1,7 +1,10 @@
-# EbieriOgheneRuemu
+# Ebieri OgheneRuemu
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Ebieri Oghene-Ruemu — The Cyber Defender" />
+  <img src="<p align="center">
+  <img src="https://raw.githubusercontent.com/eoghene-ruemu/EbieriOgheneRuemu/9fff3ef16ef7aed622df67903870c63a71238786/Desktop%20-%201%20(1).png" alt="Ebieri Oghene-Ruemu — The Cyber Defender" />
+</p>
+" alt="Ebieri Oghene-Ruemu — The Cyber Defender" />
 </p>
 
 <h1 align="center">Ebieri Oghene-Ruemu • <em>The Cyber Defender</em></h1>
