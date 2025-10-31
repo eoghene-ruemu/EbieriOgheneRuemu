@@ -1,18 +1,15 @@
-# Ebieri OgheneRuemu
-<!-- Banner -->
-<p align="center">
-  <img src="<p align="center">
+# Ebieri Oghene-Ruemu
+
+  <p align="center">
   <img src="https://raw.githubusercontent.com/eoghene-ruemu/EbieriOgheneRuemu/9fff3ef16ef7aed622df67903870c63a71238786/Desktop%20-%201%20(1).png" alt="Ebieri Oghene-Ruemu — The Cyber Defender" />
 </p>
-" alt="Ebieri Oghene-Ruemu — The Cyber Defender" />
+
 </p>
 
-<h1 align="center">Ebieri Oghene-Ruemu • <em>The Cyber Defender</em></h1>
-<p align="center"><strong>Defending the Digital Realm with Precision & Purpose</strong></p>
 
 ---
 
-## 🔎 About Me (S.H.I.E.L.D. Dossier)
+## About Me (S.H.I.E.L.D. Dossier)
 I’m a cybersecurity practitioner focused on detection engineering, cloud security, and incident response. I blend a professional, standards-driven approach with a cinematic, Marvel-tech presentation that makes complex security stories easy to understand.
 
 - Location: United States
@@ -21,7 +18,7 @@ I’m a cybersecurity practitioner focused on detection engineering, cloud secur
 
 ---
 
-## 🧰 Hero’s Arsenal (Tools & Tech)
+## Hero’s Arsenal (Tools & Tech)
 **Cloud:** AWS (GuardDuty, Security Hub, Lambda, IAM)  
 **Infra & OS:** Windows Server, Active Directory, pfSense  
 **Detection:** Snort/Suricata, IDS/IPS patterns  
@@ -30,7 +27,7 @@ I’m a cybersecurity practitioner focused on detection engineering, cloud secur
 
 ---
 
-## 🧱 Skills & Tech Stack (Badges)
+## Skills & Tech Stack (Badges)
 <!-- You can swap these badges later -->
 <img src="https://img.shields.io/badge/AWS-Teal?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GuardDuty-Purple?style=for-the-badge" />
@@ -42,7 +39,7 @@ I’m a cybersecurity practitioner focused on detection engineering, cloud secur
 
 ---
 
-## 🌟 Featured Cyber Projects
+## Featured Cyber Projects
 ### 1) AWS Threat Detection & Automation Lab
 *Mission Brief:* Automated GuardDuty/Security Hub findings to trigger Lambda responses and tag/isolate instances.  
 *Hero Angle:* “Mini-JARVIS” for compromised EC2s.  
@@ -70,7 +67,7 @@ I’m a cybersecurity practitioner focused on detection engineering, cloud secur
 
 ---
 
-## 📚 Training Logs (Certs, Labs, Ongoing)
+## Training Logs (Certs, Labs, Ongoing)
 - The Knowledge House Innovation Fellowship — Cybersecurity track
 - AWS hands-on labs (GuardDuty, Security Hub, IAM)
 - Windows Server & AD mini-labs
@@ -78,7 +75,7 @@ I’m a cybersecurity practitioner focused on detection engineering, cloud secur
 
 ---
 
-## 🎯 Mission Board (Upcoming)
+## Mission Board (Upcoming)
 - Add Sigma rules + MITRE mapping to the detection lab
 - Terraform hardening baseline for AWS org
 - SIEM content pack writeups
